@@ -2,6 +2,7 @@ package pl.air;
 
 import pl.air.learn.lesson1;
 
+import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class main {
@@ -14,6 +15,8 @@ public class main {
             System.out.print("Wprowadź temperature: ");
             int text = Integer.parseInt(input.nextLine());
             zad1.check(text);
+
+            System.out.println("beka nwm co robi komnit");
 
 
         }
