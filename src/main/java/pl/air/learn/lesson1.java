@@ -15,7 +15,7 @@ public class lesson1 {
             System.out.println("temperatura jest dodatnia i Wynosi " +temp+" stopnie");
         }
         else{
-            System.out.println("Temperatura jest ujemna Wynosi " +temp+" stopnie ");
+            System.out.println("T");
         }
     }
 
